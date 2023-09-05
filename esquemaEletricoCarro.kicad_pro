@@ -225,7 +225,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -287,7 +287,7 @@
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -320,6 +320,26 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "8a39c3ef-cbb2-438b-8fd2-d01d12a4eac3",
+      "Arduino"
+    ],
+    [
+      "980d7ea7-3ff9-498b-b91b-57f4a8ccee38",
+      "Motoroes"
+    ],
+    [
+      "1480effd-93e5-4cab-8fd6-a463b0e34780",
+      "Alimentacao"
+    ],
+    [
+      "ef1da815-5ae9-4f7a-859c-d7960e6acc1e",
+      "Sensores"
+    ],
+    [
+      "4e8abd86-3528-401b-92d9-d0c0edaaa47f",
+      "Outros"
     ]
   ],
   "text_variables": {}

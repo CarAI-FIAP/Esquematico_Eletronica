@@ -1,0 +1,12 @@
+# Generated files
+*.bak
+*.kicad_pcb-bak
+*.kicad_bak
+*.net
+*.dcm
+*.lib
+fp-info-cache
+
+# KiCad backups and autosave files
+esquemaEletricoCarro-backups/
+autosave/
