@@ -1,4 +1,4 @@
-(kicad_sch (version 20211123) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
 
@@ -1861,248 +1861,91 @@
   )
 
   (sheet (at 119.38 86.36) (size 49.53 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 72 253 73 1.0000))
     (uuid 1480effd-93e5-4cab-8fd6-a463b0e34780)
-    (property "Sheet name" "Alimentacao" (id 0) (at 119.38 83.7834 0)
+    (property "Sheetname" "Alimentacao" (at 119.38 83.7834 0)
       (effects (font (size 5 5)) (justify left bottom))
     )
-    (property "Sheet file" "alimentacao.kicad_sch" (id 1) (at 119.38 111.0746 0)
+    (property "Sheetfile" "alimentacao.kicad_sch" (at 119.38 111.0746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "esquemaEletricoCarro"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
+      )
     )
   )
 
   (sheet (at 50.8 87.63) (size 49.53 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 255 98 231 1.0000))
     (uuid 4e8abd86-3528-401b-92d9-d0c0edaaa47f)
-    (property "Sheet name" "Outros" (id 0) (at 50.8 85.0534 0)
+    (property "Sheetname" "Outros" (at 50.8 85.0534 0)
       (effects (font (size 5 5)) (justify left bottom))
     )
-    (property "Sheet file" "outros.kicad_sch" (id 1) (at 50.8 112.3446 0)
+    (property "Sheetfile" "outros.kicad_sch" (at 50.8 112.3446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "esquemaEletricoCarro"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "6"))
+      )
     )
   )
 
   (sheet (at 119.38 39.37) (size 49.53 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 122 135 255 1.0000))
     (uuid 8a39c3ef-cbb2-438b-8fd2-d01d12a4eac3)
-    (property "Sheet name" "Arduino" (id 0) (at 119.38 36.7934 0)
+    (property "Sheetname" "Arduino" (at 119.38 36.7934 0)
       (effects (font (size 5 5)) (justify left bottom))
     )
-    (property "Sheet file" "arduino.kicad_sch" (id 1) (at 119.38 64.0846 0)
+    (property "Sheetfile" "arduino.kicad_sch" (at 119.38 64.0846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "esquemaEletricoCarro"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
+      )
     )
   )
 
   (sheet (at 120.65 130.81) (size 49.53 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 255 189 117 1.0000))
     (uuid 980d7ea7-3ff9-498b-b91b-57f4a8ccee38)
-    (property "Sheet name" "Motoroes" (id 0) (at 120.65 128.2334 0)
+    (property "Sheetname" "Motoroes" (at 120.65 128.2334 0)
       (effects (font (size 5 5)) (justify left bottom))
     )
-    (property "Sheet file" "motores.kicad_sch" (id 1) (at 120.65 155.5246 0)
+    (property "Sheetfile" "motores.kicad_sch" (at 120.65 155.5246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "esquemaEletricoCarro"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
+      )
     )
   )
 
   (sheet (at 190.5 86.36) (size 49.53 24.13) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 89 247 255 1.0000))
     (uuid ef1da815-5ae9-4f7a-859c-d7960e6acc1e)
-    (property "Sheet name" "Sensores" (id 0) (at 190.5 83.7834 0)
+    (property "Sheetname" "Sensores" (at 190.5 83.7834 0)
       (effects (font (size 5 5)) (justify left bottom))
     )
-    (property "Sheet file" "sensores.kicad_sch" (id 1) (at 190.5 111.0746 0)
+    (property "Sheetfile" "sensores.kicad_sch" (at 190.5 111.0746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "esquemaEletricoCarro"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "5"))
+      )
     )
   )
 
   (sheet_instances
     (path "/" (page "1"))
-    (path "/8a39c3ef-cbb2-438b-8fd2-d01d12a4eac3" (page "2"))
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38" (page "3"))
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780" (page "4"))
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e" (page "5"))
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f" (page "6"))
-  )
-
-  (symbol_instances
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/19163fc2-7ed9-4f3a-a335-9efeb1fa178c"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/2c61451f-ee87-44d6-affe-567317ccadd4"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/2c67684a-7a8c-4bc8-a2f8-710700e3d61b"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/3e818a54-0c48-4a84-b2fd-fa92d4039129"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/3f29ab54-92d3-4106-82ed-b1a45b50f4a6"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/4db6d7df-fd4c-45c6-834e-96aa6e02c024"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/59cc1d2f-efa6-47ee-a723-6abd4cf20956"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/5f79ca16-1b5e-47ab-90c2-75b897302cd0"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/7045e114-01a8-4b1e-b11d-57e8fce31515"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/96541ea3-2bd0-41f3-9d93-c91c80800b58"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/9d7384f4-72dd-4958-81aa-491c8577b346"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/a0297392-d30c-464c-b404-21f8e58b1497"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/a0346a06-025e-4e12-af26-2cba25755ee5"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/8a39c3ef-cbb2-438b-8fd2-d01d12a4eac3/a57c8f49-d8f4-4111-9a42-6f40731d2058"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/a67c2fa8-07e3-455a-8879-cfec37b88ae1"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/b5224313-e8bc-48d8-9ba9-fb7f6add10ab"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/c3dbdba5-3e56-4299-83ff-5921a869a30b"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/d121ac35-9036-4e0c-aef0-8b7bfb02e482"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/dba92be4-42b9-43b1-a261-52938c02985f"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/df8d5299-3f61-4004-8c9f-5d2ce27278e5"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/e8837881-4a26-4eb9-a464-f24ca9f171e6"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/f02ba675-1ed7-4465-8645-08993bedb134"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/fa294a6c-6fb8-494f-ab2c-230c0ddc3232"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/fc5bf72f-979d-4f33-b2df-76dd06b208f1"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/fd3facc3-5e5d-4f74-bd97-614679bf0971"
-      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/0e85c891-ce51-4467-b285-aecceba1d2a8"
-      (reference "BT?") (unit 1) (value "Battery 12V 7Ah (Nobreak)") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/8e923355-a77e-4941-a9bc-ecd0c654f823"
-      (reference "BT?") (unit 1) (value "Battery 12V 7Ah (Nobreak)") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/e027cdaf-a300-42c1-9d52-b948ecc18e64"
-      (reference "BT?") (unit 1) (value "Battery 12V 7Ah (Nobreak)") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/0c06c5ae-27f1-4521-a40e-1db3c4daf6b4"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/425de6e5-b38d-4e0b-885a-e0c923bc7d4e"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/5ef7c97d-efdf-4a0a-b63b-e77187f1ae9e"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/74f368fc-b6ff-4475-b713-815b7a0d5006"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/980c645b-1f9d-4fb8-a57c-c219da9892d3"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/c62e8ec0-6191-4134-bc90-90025019a1c0"
-      (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/58fbda4b-de5e-4697-955b-26d73043ee19"
-      (reference "F?") (unit 1) (value "Fuse") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/695a1845-0347-4c08-bd16-83907895d1c1"
-      (reference "F?") (unit 1) (value "Fuse") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/a21670e4-69bd-41d5-8d7b-b757e83ae086"
-      (reference "F?") (unit 1) (value "Fuse") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/f81e2caa-f7a2-40dd-8668-c447b8223c0a"
-      (reference "F?") (unit 1) (value "Fuse") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/b49ff4eb-12f4-4743-a75e-00e4bee4ced3"
-      (reference "M?") (unit 1) (value "Motor_Servo") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/b9da0bee-9ca4-4256-9832-eaed8a23a561"
-      (reference "M?") (unit 1) (value "Motor_DC") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/f8d9fecd-1b32-42cf-a649-0dc94e33a915"
-      (reference "M?") (unit 1) (value "Motor_DC") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/7ce4708e-ff53-492e-853e-fdfc4c69a4b1"
-      (reference "SW?") (unit 1) (value "Botão emergência") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/1b8aa1c4-0b04-48c4-b7d3-f21ba460847f"
-      (reference "U?") (unit 1) (value "Módulo_Relé_Optoacoplado") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/2485e7c3-de46-4699-907a-a7c2aed89176"
-      (reference "U?") (unit 1) (value "HC-Sr04") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/34797327-6bb1-44ca-9222-c11e04fe90db"
-      (reference "U?") (unit 1) (value "KY-040") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/665f88de-3214-491f-b22d-c02851ca3460"
-      (reference "U?") (unit 1) (value "HC-Sr04") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/6bc00599-0e61-434b-9132-bb199a859ad9"
-      (reference "U?") (unit 1) (value "HC-Sr04") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/6db2ca01-b0f6-4d97-8cc0-69dc4ca1f016"
-      (reference "U?") (unit 1) (value "KY-040") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/70b1d244-a4b4-4769-bf56-5589643bbed7"
-      (reference "U?") (unit 1) (value "RF_Receptor_433mhz_Am") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/7871056a-a5f2-4c6f-9e5a-8b33dd2b2f79"
-      (reference "U?") (unit 1) (value "TCRT5000") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/7cc6edca-2ee1-4f0b-b305-3f08939c23de"
-      (reference "U?") (unit 1) (value "Adjustable_Tension_Regulator_-_XL4015") (footprint "")
-    )
-    (path "/4e8abd86-3528-401b-92d9-d0c0edaaa47f/7d947cab-410d-4c5a-8435-102c12460ceb"
-      (reference "U?") (unit 1) (value "Bluetooth_module_HC06") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/98bb9d69-dfde-4d68-acaf-e3b8842fc094"
-      (reference "U?") (unit 1) (value "Motor_driver_43a_Bts7960b") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/a300beee-707d-49f0-93c0-40254aea715b"
-      (reference "U?") (unit 1) (value "TCRT5000") (footprint "")
-    )
-    (path "/ef1da815-5ae9-4f7a-859c-d7960e6acc1e/c19ab472-a7c1-4867-bd31-95d6a71144c5"
-      (reference "U?") (unit 1) (value "MPU-6050_module") (footprint "")
-    )
-    (path "/1480effd-93e5-4cab-8fd6-a463b0e34780/d9a94270-e8ea-4544-917c-75dc2a06f7da"
-      (reference "U?") (unit 1) (value "Adjustable_Tension_Regulator_-_XL4015") (footprint "")
-    )
-    (path "/980d7ea7-3ff9-498b-b91b-57f4a8ccee38/e6b45546-c8d6-458a-90b9-8ea17a804c93"
-      (reference "U?") (unit 1) (value "Motor_driver_43a_Bts7960b") (footprint "")
-    )
-    (path "/8a39c3ef-cbb2-438b-8fd2-d01d12a4eac3/0a5d8d9c-ca12-4ac1-a08b-a149bc4016ae"
-      (reference "XA?") (unit 1) (value "Arduino_Mega2560_Shield_Mod") (footprint "PCM_arduino-library:Arduino_Mega2560_Shield")
-    )
   )
 )
