@@ -2425,10 +2425,10 @@
     (property "Datasheet" "" (at 146.05 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e1e))
-    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e1e))
-    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e1e))
-    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e1e))
+    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e21))
+    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e21))
+    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e21))
+    (pin "" (uuid c3fc663e-d17a-4fa3-913c-9eb726de7e21))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1480effd-93e5-4cab-8fd6-a463b0e34780"
@@ -2581,10 +2581,10 @@
     (property "Datasheet" "" (at 92.71 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a00f))
-    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a00f))
-    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a00f))
-    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a00f))
+    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a012))
+    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a012))
+    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a012))
+    (pin "" (uuid 30373001-f456-486c-8552-a67068f7a012))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/1480effd-93e5-4cab-8fd6-a463b0e34780"

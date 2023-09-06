@@ -2357,10 +2357,10 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "IR1" (shape bidirectional) (at 96.52 45.72 180) (fields_autoplaced)
+  (global_label "IR1" (shape bidirectional) (at 96.52 43.18 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid c5a9d511-db80-4a49-8c10-9bfa9da10cc1)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 89.3392 45.72 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 89.3392 43.18 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
@@ -2371,10 +2371,10 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
-  (global_label "IR2" (shape bidirectional) (at 139.7 45.72 180) (fields_autoplaced)
+  (global_label "IR2" (shape bidirectional) (at 139.7 43.18 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f34eef87-f7f1-441e-964d-409fa7d9715c)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 132.5192 45.72 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 132.5192 43.18 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
   )
@@ -2419,10 +2419,10 @@
     (property "Datasheet" "" (at 46.99 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bc))
-    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bc))
-    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bc))
-    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bc))
+    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bf))
+    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bf))
+    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bf))
+    (pin "" (uuid b1075ab4-ae19-4661-a674-300946ead5bf))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2472,11 +2472,11 @@
     (property "Datasheet" "" (at 52.07 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d0))
-    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d0))
-    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d0))
-    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d0))
-    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d0))
+    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d4))
+    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d4))
+    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d4))
+    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d4))
+    (pin "" (uuid 9a7c969b-d24b-42a3-a6fb-314a333f10d4))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2551,10 +2551,10 @@
     (property "Datasheet" "" (at 46.99 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a2))
-    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a2))
-    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a2))
-    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a2))
+    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a5))
+    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a5))
+    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a5))
+    (pin "" (uuid 5e4a6cfb-0189-44ad-9b7d-9d0f2516f0a5))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2579,10 +2579,10 @@
     (property "Datasheet" "" (at 46.99 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a14))
-    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a14))
-    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a14))
-    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a14))
+    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a17))
+    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a17))
+    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a17))
+    (pin "" (uuid b759df11-4941-4258-8a42-ac83eeea8a17))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2607,11 +2607,11 @@
     (property "Datasheet" "" (at 52.07 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b29c))
-    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b29c))
-    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b29c))
-    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b29c))
-    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b29c))
+    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b2a0))
+    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b2a0))
+    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b2a0))
+    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b2a0))
+    (pin "" (uuid a3a9c3b0-ec63-4392-89f2-8c066307b2a0))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2636,10 +2636,10 @@
     (property "Datasheet" "" (at 106.68 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf16))
-    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf16))
-    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf16))
-    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf16))
+    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf19))
+    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf19))
+    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf19))
+    (pin "" (uuid de681abe-c434-49b7-b6df-ce62e8dbbf19))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2664,10 +2664,10 @@
     (property "Datasheet" "" (at 149.86 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5a7))
-    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5a7))
-    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5a7))
-    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5a7))
+    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5aa))
+    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5aa))
+    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5aa))
+    (pin "" (uuid 6fd61f98-f0f8-4e44-9e7c-674a0b97b5aa))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
@@ -2717,14 +2717,14 @@
     (property "Datasheet" "" (at 213.36 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
-    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf840c))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
+    (pin "" (uuid 84abc596-eb84-4327-8ff3-7c345faf8413))
     (instances
       (project "esquemaEletricoCarro"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/ef1da815-5ae9-4f7a-859c-d7960e6acc1e"
